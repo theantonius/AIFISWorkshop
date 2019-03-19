@@ -1,0 +1,2 @@
+# AIFISWorkshop
+Workshop for AIFIS
