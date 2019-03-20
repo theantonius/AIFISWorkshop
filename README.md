@@ -1,5 +1,6 @@
 # Open Source Tech for Mo Cap and Depth Sensing
 This repo will provide information and in-workshop examples of tech that can be utilized to create low-level motion capture and how to utilize depth-sensing cameras.
+The slides for the workshop are available at [http://bit.ly/AIFISISI](http://bit.ly/AIFISISI)
 
 We will mostly be using the P5 Editor to create some animations together.
 [https://editor.p5js.org](https://editor.p5js.org)
