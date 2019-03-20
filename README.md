@@ -5,4 +5,4 @@ This repo will provide information and in-workshop examples of tech that can be 
 ## Optional
 The following will be covered during the workshop, but we may not have enough time to do a hands-on experience with them
 * [faceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases)
-* [P5.js OSC](https://github.com/genekogan/p5js-osc)
+* [Face It by Dan Shiffman](https://github.com/shiffman/Face-It/blob/master/FaceOSC/FaceOSCDemo/FaceOSCDemo.pde)
